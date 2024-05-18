@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/**
+ * 一个测试用例为通过
+ */
 public class luoguP1014 {
 
 	public static void main(String[] args) {

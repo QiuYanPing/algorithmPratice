@@ -2,6 +2,7 @@
 
 import java.util.Scanner;
 /**
+ * 部分案例超时
  * 时间复杂度O(N^2)
  * 二分查找优化O(n*logn)
  */

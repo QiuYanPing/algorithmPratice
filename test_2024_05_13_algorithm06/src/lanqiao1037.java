@@ -1,6 +1,8 @@
 import java.util.Iterator;
 import java.util.Scanner;
-
+/**
+ *4个答案错误
+ */
 public class lanqiao1037 {
 
 	public static void main(String[] args) {

@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/**
+ * 运行时超时
+ * 数组大小跨过了MLE的红线
+ */
 public class luoguP1003 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -13,7 +16,7 @@ public class luoguP1003 {
 			int g = scanner.nextInt();
 			int k = scanner.nextInt();
 			for (int j = a; j <= a+g; j++) {
-				for (int j2 = b; j2 < b+k; j2++) {
+				for (int j2 = b; j2 <= b+k; j2++) {
 					arr[j][j2] = i;
 					
 				}
