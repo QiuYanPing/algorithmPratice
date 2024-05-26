@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/***
+ * 错误2，超时3
+ */
 public class luoguP1098 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
